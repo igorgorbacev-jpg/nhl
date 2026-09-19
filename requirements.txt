@@ -1,0 +1,20 @@
+pandas
+seaborn
+numpy
+matplotlib
+# openpyxl
+phik
+market-api
+requests>=2.28.0
+tenacity>=8.2.0
+scikit-learn
+LightGBM
+catboost
+xgboost
+mlflow
+optuna
+shap
+fastapi
+unicorn
+pydantic
+requests

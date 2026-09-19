@@ -1,0 +1,12 @@
+.venv
+data
+.idea
+catboost_info
+__pycache__
+MarketCSGO-API
+1.py
+eda.ipynb
+eda2.ipynb
+market_api.py
+praktika.ipynb
+test_data
